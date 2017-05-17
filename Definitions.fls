@@ -1,3 +1,3 @@
 Type NaturalNumber
 
-Constructors zero:NaturalNumber;successor(NaturalNumber):NaturalNumber
+Constructors zero:NaturalNumber,successor(NaturalNumber):NaturalNumber
