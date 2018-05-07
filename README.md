@@ -1,4 +1,4 @@
-# Natural numbers
+# Natural Numbers
 
 A construction of the natural numbers for the [Occam](http://djalbat.com/occam) proof assistant.
 
