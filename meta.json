@@ -1,0 +1,6 @@
+{
+  "repository": "natural-numbers",
+  "dependencies": [
+    "propositional-logic"
+  ]
+}
