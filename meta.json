@@ -1,5 +1,5 @@
 {
-  "repository": "natural-numbers",
+  "repository": "https://github.com/jecs-imperial/natural-numbers",
   "dependencies": [
     "propositional-logic"
   ]
