@@ -11,5 +11,5 @@ Constructors zero:NaturalNumber,successor(NaturalNumber):NaturalNumber
 
 ## Contact
 
-* jecs@imperial.ac.uk
+* james.smith@openmathematics.org
 * http://djalbat.com
