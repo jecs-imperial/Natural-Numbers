@@ -1,3 +1,5 @@
-Type NaturalNumber
+Type Integer
+
+Type NaturalNumber:Integer
 
 Constructors zero:NaturalNumber,successor(NaturalNumber):NaturalNumber
