@@ -1,6 +1,6 @@
 # Natural Numbers
 
-Natural numbers for the [Occam](http://djalbat.com/occam) proof assistant.
+Natural numbers for the [Occam](http://occam.science) proof assistant.
 
 ## Contact
 
