@@ -2,4 +2,4 @@ Type Integer
 
 Type NaturalNumber:Integer
 
-Constructors zero:NaturalNumber,successor(NaturalNumber):NaturalNumber
+Constructors zero,successor(NaturalNumber):NaturalNumber
