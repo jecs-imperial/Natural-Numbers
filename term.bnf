@@ -1,0 +1,7 @@
+
+
+                       term  ::=  "zero" 
+
+                               |  "successor"<NO_WHITESPACE>"(" term ")"
+             
+                               ;
