@@ -3,3 +3,15 @@ Type Integer
 Type NaturalNumber:Integer
 
 Constructors zero,successor(NaturalNumber):NaturalNumber
+
+Operator (NaturalNumber):NaturalNumber
+
+Operator NaturalNumber + NaturalNumber:NaturalNumber
+Operator NaturalNumber - NaturalNumber:Integer
+
+Operator NaturalNumber < NaturalNumber
+Operator NaturalNumber > NaturalNumber
+Operator NaturalNumber <= NaturalNumber
+Operator NaturalNumber >= NaturalNumber
+
+Operator NaturalNumber = NaturalNumber
