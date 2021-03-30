@@ -1,5 +1,5 @@
 {
-  "repository": "https://github.com/jecs-imperial/natural-numbers",
+  "repository": "https://github.com/djalbat/natural-numbers",
   "dependencies": [
     "arithmetic"
   ]
