@@ -1,8 +1,7 @@
 # Natural Numbers
 
-Natural numbers for the [Occam](http://occam.science) proof assistant.
+Natural numbers [Occam](https://occam.science).
 
 ## Contact
 
-* james.smith@openmathematics.org
 * http://djalbat.com
